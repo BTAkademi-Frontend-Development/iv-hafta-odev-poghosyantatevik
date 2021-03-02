@@ -4,6 +4,8 @@
 
 - material design for bootstrap ile ilgili çalışmalar yaparak reponun linkini ödeve ekleyiniz.
 
+     :dart: here is the actual link of the page I have created in mdbootstrap (https://portfolio-mdbootstrap.mdbgo.io), and here is the link of the repository I have created and pushed my project (https://github.com/poghosyantatevik/Picasso-museum.git)
+     
 - npm ile bir bootstrap çalışması yapıp reponun linkini ödeve ekleyiniz.
 
 
