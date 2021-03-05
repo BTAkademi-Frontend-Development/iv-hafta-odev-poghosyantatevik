@@ -2,7 +2,7 @@
 
 -tailwindcss ile örnek yaparak reponun linkini ödeve ekleyiniz.
 
-      :dart: tailwind css project[food website added](https://github.com/poghosyantatevik/tailwind-project.git)
+     :dart: tailwind css project- [food website added](https://github.com/poghosyantatevik/tailwind-project.git)
 
 - material design for bootstrap ile ilgili çalışmalar yaparak reponun linkini ödeve ekleyiniz.
 
