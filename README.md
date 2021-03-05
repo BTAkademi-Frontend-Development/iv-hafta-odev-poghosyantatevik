@@ -7,6 +7,9 @@
      :dart: here is the actual link of the page I have created in mdbootstrap (https://portfolio-mdbootstrap.mdbgo.io), and here is the link of the repository I have created and pushed my project (https://github.com/poghosyantatevik/Picasso-museum.git)
      
 - npm ile bir bootstrap çalışması yapıp reponun linkini ödeve ekleyiniz.
+     
+    :dart: Here is my bootstrap project done via npm [Travel page about Barcelona](https://github.com/poghosyantatevik/bootstrap-project.git)
 
 
-    :dart: as an addtional task I have finished a course on Bootstrap, [here is the link of the course](https://www.freecodecamp.org/learn/front-end-libraries/)
+
+    :arrow: as an addtional task I have finished a course on Bootstrap, [here is the link of the course](https://www.freecodecamp.org/learn/front-end-libraries/)
